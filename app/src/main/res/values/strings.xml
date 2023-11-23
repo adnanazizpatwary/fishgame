@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Flying fish Game</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">click to register</string>
+    <string name="logout">Logout</string>
+    <string name="play_now">Play Now</string>
+    <string name="me">Me</string>
+    <string name="this_is_my_login_email_details_will_come_soon">This is my login email ,details will come soon</string>
+    <string name="hello_world">Hello World</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+</resources>

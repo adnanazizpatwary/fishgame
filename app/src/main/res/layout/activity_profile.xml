@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    android:background="@drawable/splash"
+    tools:context=".Profile">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20sp"
+
+        android:text="@string/this_is_my_login_email_details_will_come_soon"/>
+    <TextView
+        android:id="@+id/user_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:text="@string/hello_world"/>
+    <Button
+        android:id="@+id/btn_home"
+        android:text="@string/home"
+        android:layout_width="wrap_content"
+        android:textColor="@color/common_google_signin_btn_text_dark_focused"
+        android:layout_marginTop="80dp"
+        android:padding="10sp"
+        android:background="@color/colorAccent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

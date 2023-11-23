@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690366093503",
+    "project_id": "fish-848fc",
+    "storage_bucket": "fish-848fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690366093503:android:935d8342e609ceec9e0e0a",
+        "android_client_info": {
+          "package_name": "com.deep.flyingfishh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_KrhXWFUNEyzkCMOwqazHp9f-mP0wUTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
